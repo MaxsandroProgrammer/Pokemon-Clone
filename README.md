@@ -4,11 +4,13 @@
 
 ---
 
-## Tecnologies
+## 👤 Creditos
+ - https://cypor.itch.io/12x12-rpg-tileset
+
+---
+
+## 👨🏾‍💻 Tecnologia usado
 
 - JavaScript 
 - Html
 - Tiled
-
-
-
